@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-423-chore-security-commit-the-missing-example"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-423-chore-security-commit-the-missing-example": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-423-chore-security-commit-the-missing-example"
+  ]
+}
